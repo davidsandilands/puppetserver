@@ -1,4 +1,4 @@
-# Puppet Server
+# Puppet Server a change we release to enterprise first
 
 [Puppet Server](https://puppet.com/docs/puppet/latest/server/about_server.html)
 implements Puppet's server-side components for managing
